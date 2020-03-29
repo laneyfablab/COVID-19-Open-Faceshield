@@ -1,6 +1,8 @@
 # LaneyShield
 ## Rapidly produced faceshields for health care workers
 
+### More info on our website: https://www.laneyshield.laneyfablab.org/
+
 Health care workers need faceshields now. The Laney FabLab has created the LaneyShield, a faceshield that can be rapidly produced using 4 components and with common industrial materials.
 
 ## Prerequisites for prototyping
