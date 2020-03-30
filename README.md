@@ -6,6 +6,8 @@
 
 Health care workers need faceshields now. The Laney FabLab has created the LaneyShield, a faceshield that can be rapidly produced using 4 components and with common industrial materials.
 
+![3D render of LaneyShield](https://github.com/laneyfablab/LaneyShield/blob/master/img/Open%20Source%20FaceShield_Laney%20v12%20-%20higher%20res.png "3D render of shield")
+
 ## Prerequisites for prototyping
 Software
 - [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
